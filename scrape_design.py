@@ -1,6 +1,6 @@
 import unittest
 from selenium import webdriver
-from mypackage import page
+from package import page
 import time
 import sys
 
